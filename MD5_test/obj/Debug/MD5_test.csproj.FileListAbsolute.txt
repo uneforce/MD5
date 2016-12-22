@@ -1,0 +1,9 @@
+C:\Users\User\Documents\МТУСИ\7 семестр\МиСЗКИ\Лабораторные\Лабораторная №3\MD5_test\bin\Debug\MD5_test.dll
+C:\Users\User\Documents\МТУСИ\7 семестр\МиСЗКИ\Лабораторные\Лабораторная №3\MD5_test\bin\Debug\MD5_test.pdb
+C:\Users\User\Documents\МТУСИ\7 семестр\МиСЗКИ\Лабораторные\Лабораторная №3\MD5_test\bin\Debug\MD5_lib.dll
+C:\Users\User\Documents\МТУСИ\7 семестр\МиСЗКИ\Лабораторные\Лабораторная №3\MD5_test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\User\Documents\МТУСИ\7 семестр\МиСЗКИ\Лабораторные\Лабораторная №3\MD5_test\bin\Debug\MD5_lib.pdb
+C:\Users\User\Documents\МТУСИ\7 семестр\МиСЗКИ\Лабораторные\Лабораторная №3\MD5_test\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\User\Documents\МТУСИ\7 семестр\МиСЗКИ\Лабораторные\Лабораторная №3\MD5_test\obj\Debug\MD5_test.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\МТУСИ\7 семестр\МиСЗКИ\Лабораторные\Лабораторная №3\MD5_test\obj\Debug\MD5_test.dll
+C:\Users\User\Documents\МТУСИ\7 семестр\МиСЗКИ\Лабораторные\Лабораторная №3\MD5_test\obj\Debug\MD5_test.pdb

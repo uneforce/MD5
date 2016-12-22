@@ -1,0 +1,5 @@
+C:\Users\User\Documents\МТУСИ\7 семестр\МиСЗКИ\Лабораторные\Лабораторная №3\MD5_lib\bin\Debug\MD5_lib.dll
+C:\Users\User\Documents\МТУСИ\7 семестр\МиСЗКИ\Лабораторные\Лабораторная №3\MD5_lib\bin\Debug\MD5_lib.pdb
+C:\Users\User\Documents\МТУСИ\7 семестр\МиСЗКИ\Лабораторные\Лабораторная №3\MD5_lib\obj\Debug\MD5_lib.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\МТУСИ\7 семестр\МиСЗКИ\Лабораторные\Лабораторная №3\MD5_lib\obj\Debug\MD5_lib.dll
+C:\Users\User\Documents\МТУСИ\7 семестр\МиСЗКИ\Лабораторные\Лабораторная №3\MD5_lib\obj\Debug\MD5_lib.pdb
